@@ -1,0 +1,11 @@
+<link rel = "preconnect"href = "https://fonts.gstatic.com">
+<link href = "https://fonts.googleapis.com/css2? family = Nanum + Gothic : wght @ 400; 800 & family = Noto + Sans + KR : wght @ 500; 700; 900 & display = swap "rel ="stylesheet ">
+
+*{
+	font-family : 'Nanum Gothic', sans-serif;
+	font-weight: 400;
+}
+h3{
+	font-family : 'Noto Sans KR', sans-serif;
+	font-weight: 900;
+}
