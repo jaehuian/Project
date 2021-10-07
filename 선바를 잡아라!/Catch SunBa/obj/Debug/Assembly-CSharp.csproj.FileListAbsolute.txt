@@ -1,0 +1,2 @@
+C:\Users\안재희\Desktop\안재희\프로젝트\선바를 잡아라!\Catch SunBa\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\안재희\Desktop\안재희\프로젝트\선바를 잡아라!\Catch SunBa\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
